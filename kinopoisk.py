@@ -151,3 +151,4 @@ while run:
     
     time.delay(25)
     display.update()
+#sdnlfnsdfnsdasda
